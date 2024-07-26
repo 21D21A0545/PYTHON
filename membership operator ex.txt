@@ -1,0 +1,7 @@
+data=[1,8,'apple','orange','carrot']
+fruits=['apple','mango','orange','watermelon']
+vegies=['onion','tomato','carrot','beans']
+
+for i in data:
+    if i  in vegies and i not in fruits:
+        print(i)

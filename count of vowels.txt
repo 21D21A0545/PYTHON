@@ -1,0 +1,9 @@
+
+s='beulah'
+
+Vowels=['a','e','i','o','u']
+count=0
+for c in s:
+    if c in Vowels:
+        count+=1
+print(count)
