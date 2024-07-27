@@ -1,0 +1,3 @@
+friends=['beulah','joy','shalika']
+friends.append('pragathi')
+print(friends)

@@ -1,0 +1,3 @@
+friends=['beulah','pragathi','shalika']
+friends.pop()
+print(friends)

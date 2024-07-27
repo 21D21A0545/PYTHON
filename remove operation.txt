@@ -1,0 +1,3 @@
+friends=['vinni','keerthana','yashwanth']
+friends.remove('keerthana')
+print(friends)
