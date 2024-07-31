@@ -1,0 +1,4 @@
+
+min_n1 = int(min(str(n1)))
+min_n2 = int(min(str(n2)))
+min_n3 = int(min(str(n3)))

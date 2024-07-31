@@ -1,0 +1,8 @@
+
+
+
+diff = max_sum - min_sum
+
+print("Min sum:", min_sum)
+print("Max sum:", max_sum)
+print("Difference:",diff)

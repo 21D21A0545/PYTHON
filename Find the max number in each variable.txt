@@ -1,0 +1,5 @@
+
+
+max_n1 = int(max(str(n1)))
+max_n2 = int(max(str(n2)))
+max_n3 = int(max(str(n3)))
